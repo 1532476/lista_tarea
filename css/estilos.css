@@ -63,8 +63,8 @@ footer {
 	color: red;
 }
 
-/*.principal .formulario input[type=text].error::-webkit-input-placeholder 
-{  color: red;}*/
+.principal .formulario input[type=text].error::-webkit-input-placeholder 
+{  color: red;}
 
 .principal .formulario .boton {
 	background: none;
